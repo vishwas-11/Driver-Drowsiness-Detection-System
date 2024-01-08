@@ -27,7 +27,7 @@ The image below represents the state of the Driver before getting drowsy-:
 
 ![Normal](https://github.com/vishwas-11/Driver-Drowsiness-Detection-System/assets/113695311/64302847-3c70-4929-956d-b736d0afbb60)
 
-The image below shows the state of the driver after getting drowsy -:
+The image below represents the state of the driver after getting drowsy -:
 
 ![Alert](https://github.com/vishwas-11/Driver-Drowsiness-Detection-System/assets/113695311/645dab3b-9e51-42a3-8129-ac31f879e5b4)
 
