@@ -22,3 +22,13 @@ Special thanks to the open-source community for providing valuable resources.
 
 Disclaimer:
 This system is intended for research and educational purposes. Use it responsibly and never rely solely on it for ensuring driver alertness. Always stay attentive and follow traffic safety regulations.
+
+The image below represents the state of the Driver before getting drowsy-:
+
+![Normal](https://github.com/vishwas-11/Driver-Drowsiness-Detection-System/assets/113695311/64302847-3c70-4929-956d-b736d0afbb60)
+
+The image below shows the state of the driver after getting drowsy -:
+
+![Alert](https://github.com/vishwas-11/Driver-Drowsiness-Detection-System/assets/113695311/645dab3b-9e51-42a3-8129-ac31f879e5b4)
+
+An alarm along with an "ALERT" signal will be played alerting the driver
